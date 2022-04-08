@@ -11,11 +11,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <span>
-            <h1 fontFamily={"MonsterBack"}>
-              hi
-            </h1>
-          </span>
         <h1 className={styles.title}>
           Welcome to Undertale RPG!
         </h1>
