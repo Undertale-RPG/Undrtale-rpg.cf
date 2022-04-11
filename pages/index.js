@@ -20,9 +20,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://Will see" className={styles.card}>
-            <h2>Commands list &rarr;</h2>
-            <p>Look at the commands and see what can you do!</p>
+          
+          <a hreg="https://top.gg/bot/815153881217892372/invite" className={styles.card}>
+            <h2> Invite the bot! &rarr;</h2>
+            <p>Invite our bot and enjoy the experience!</p>
           </a>
 
           <a href="https://github.com/LetsChill/Undertale-RPG" className={styles.card}>
