@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           
-          <a hreg="https://top.gg/bot/815153881217892372/invite" className={styles.card}>
+          <a href="https://top.gg/bot/815153881217892372/invite" className={styles.card}>
             <h2> Invite the bot! &rarr;</h2>
             <p>Invite our bot and enjoy the experience!</p>
           </a>
